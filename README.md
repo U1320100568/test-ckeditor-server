@@ -1,6 +1,6 @@
 # CKEditor4 server
   
-> Use with [https://github.com/U1320100568/test-ckeditor](https://github.com/U1320100568/test-ckeidtor/)
+> Use with [https://github.com/U1320100568/test-ckeditor](https://github.com/U1320100568/test-ckeditor/)
   
 1. for upload image
 2. image access
